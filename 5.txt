@@ -1,2 +1,2 @@
 Hello, it's thirst test
-
+Bye!
